@@ -1,90 +1,100 @@
-<h1 align="center">👋 Hey there, I'm Mouli! 🚀</h1>
-<h3 align="center">B.Tech CSE Student | Web & AI Enthusiast | Passionate Developer</h3>
+<h1 align="center">Hi 👋, I'm Mouli</h1>
+<h3 align="center">🚀 B.Tech CSE Student | Full-Stack Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mouli&label=Profile%20views&color=blue&style=flat" alt="mouli" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7B801&center=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+%7C+AI+%26+ML+Explorer+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=mouli4401&label=Profile%20views&color=0e75b6&style=flat" alt="mouli" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AI+%26+ML+Explorer;Passionate+Problem+Solver;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🧑‍💻 About Me
+- 🎓 B.Tech Computer Science Student  
+- 💡 Passionate about **Web Development & AI/ML**  
+- 🔭 Currently working on **Real-Time AI Projects & System Design**  
+- 🌱 Learning **Advanced DSA & Machine Learning Models**  
+- ⚡ Fun fact: I love turning ideas into real-world applications  
 
-### 🚀 Programming Languages
+---
+
+## 🚀 Tech Stack
+
+### 👨‍💻 Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts" />
 </p>
 
-### 📚 Frameworks & Libraries
+### 🌐 Frameworks & Libraries
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express" />
 </p>
 
 ### 💾 Databases & Tools
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,linux" />
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🔹 EEG-Based Emotion Recognition for Driver Safety
-> Real-time EEG signal processing to classify driver emotions and trigger safety alerts.
-
-- **Hardware:** BioAmp EXG Pill & Maker Uno  
-- **Tech:** Signal Processing, Python, ML  
-- **Goal:** Accident prevention using emotion-based alerts
-
-### 🔹 Bank Management System (Java & JSP)
-> Secure banking platform for managing customer accounts and transactions.
-
-- **Tech:** Java, JSP, MySQL  
-- **Features:** Login, Account CRUD, Transactions, Reports
-
-### 🔹 E-commerce Web App
-> Full-stack shopping website with cart, user authentication, and payment integration.
-
-- **Tech:** React, Node.js, MongoDB  
-- **Features:** Product catalog, cart system, user login, Stripe payments
+### 🧠 EEG-Based Emotion Recognition for Driver Safety
+- 🚗 Detects driver emotions using EEG signals  
+- ⚙️ Tech: Python, Machine Learning, Signal Processing  
+- 🎯 Goal: Prevent accidents with real-time alerts  
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouli&theme=radical" alt="mouli streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mouli&show_icons=true&theme=radical" alt="mouli stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouli&layout=compact&theme=radical" alt="top langs" />
-</p>
+### 🏦 Bank Management System
+- 💳 Secure banking platform for managing accounts  
+- ⚙️ Tech: Java, JSP, MySQL  
+- 🔐 Features: Authentication, Transactions, Reports  
 
 ---
 
-## 🤝 Let's Connect
+### 🛒 E-Commerce Web Application
+- 🛍️ Full-stack shopping platform  
+- ⚙️ Tech: React, Node.js, MongoDB  
+- 💡 Features: Cart, Auth, Payment Integration  
 
-<p>
-  <a href="https://linkedin.com/in/mouli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://mouli-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/></a>
-  <a href="mailto:mouli@email.com"><img src="https://img.shields.io/badge/Email-contact-red?style=for-the-badge"/></a>
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouli4401&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mouli4401&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouli4401&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
+## 🧠 LeetCode / DSA (Optional Add)
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />
+  <img src="https://leetcard.jacoblin.cool/your_username?theme=dark&font=Nunito&ext=contest" />
 </p>
+
+---
+
+## 🤝 Connect With Me
+
 <p align="center">
-  💡 <i>“Code, Learn, Innovate, Repeat!”</i> 🚀
+  <a href="https://linkedin.com/in/mouli" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://mouli-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
+  <a href="mailto:mouli@email.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💡 <b>"Code. Learn. Build. Repeat."</b> 🚀
 </p>
