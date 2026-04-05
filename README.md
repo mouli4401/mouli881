@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20I'm%20Mouli%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20B.Tech%20CSE&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20I'm%20Mouli%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20B.Tech%20CSE&descAlignY=55&descSize=18" alt="Animated header banner with greeting and role description" />
 
 <!-- Profile Views + Followers -->
 <p>
@@ -10,7 +10,7 @@
 </p>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%F0%9F%96%A5%EF%B8%8F;AI+%26+ML+Explorer+%F0%9F%A4%96;Passionate+Problem+Solver+%F0%9F%92%A1;B.Tech+CSE+Student+%F0%9F%8E%93;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%F0%9F%96%A5%EF%B8%8F;AI+%26+ML+Explorer+%F0%9F%A4%96;Passionate+Problem+Solver+%F0%9F%92%A1;B.Tech+CSE+Student+%F0%9F%8E%93;Always+Learning+New+Things+%F0%9F%9A%80" alt="Animated typing text displaying: Full-Stack Developer, AI &amp; ML Explorer, Passionate Problem Solver, B.Tech CSE Student, Always Learning New Things" />
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="300" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623032622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d4c382b4c787a6a696a6f49595a585344444c2d56695820436f64696e672e676966" />
+<img align="right" width="300" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623032622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d4c382b4c787a6a696a6f49595a585344444c2d56695820436f64696e672e676966" alt="Animated GIF of a person coding" />
 
 ```yaml
 Name      : Mouli
@@ -129,7 +129,7 @@ Focus     : Web Development, AI/ML, DSA
 
 <!-- Footer Wave -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Animated footer wave decoration" />
 
   <b>💡 "Code. Learn. Build. Repeat." 🚀</b>
 
